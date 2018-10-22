@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+# Don't save editor backup files (e.g. vim)
+*~
+
